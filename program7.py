@@ -1,0 +1,12 @@
+name = ["tuhin", 'zarif', 'Mahadi', 'Md', 'Radoy']
+print(len(name))
+name.append("tusher")
+print(name)
+name.insert(2, "me")
+print(name)
+name.remove("me")
+print(name)
+name.sort()
+print(name)
+name.clear()
+print(name)
